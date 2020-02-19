@@ -19,7 +19,8 @@ http://117.187.29.38:6060/000000001000/8103864434730665389/1.m3u8?
 http://117.187.29.38:6060/000000001000/5595720619887440144/1.m3u8?
 #EXTINF:-1 ,家庭剧场
 http://117.187.29.38:6060/000000001000/6316377948248689070/1.m3u8?
-HBO2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 , HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1 ,好莱坞电影
 http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,女神电影
@@ -32,12 +33,15 @@ http://tx.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687
 http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
 #EXTINF:-1 ,华数动作电影HD
 http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
-StarMovies HD,http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 , StarMovies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 ,漫威宇宙
 http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
 #EXTINF:-1 ,峨眉电影HD
 http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
 #EXTINF:-1 ,环球影剧频道
 http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
-HBO2 720p,http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-HBO HD,http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1 , HBO2 720p
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 , HBO HD
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
