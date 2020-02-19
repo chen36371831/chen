@@ -13,14 +13,12 @@ http://nclive.grtn.cn/ggpd/sd/live.m3u8
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 ,香港电影频道
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 ,动作电影
-http://117.187.29.38:6060/000000001000/8103864434730665389/1.m3u8?
-#EXTINF:-1 ,明星大片
-http://117.187.29.38:6060/000000001000/5595720619887440144/1.m3u8?
-#EXTINF:-1 ,家庭剧场
-http://117.187.29.38:6060/000000001000/6316377948248689070/1.m3u8?
-#EXTINF:-1 , HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 ,广东珠江台
+http://nclive.grtn.cn/zjpd/playlist.m3u8
+#EXTINF:-1 ,广州影视  
+http://aplay.gztv.com/sec/yingshi.m3u8
+#EXTINF:-1 ,广东影视  
+http://nclive.grtn.cn/tvs4/sd/live.m3u8
 #EXTINF:-1 ,好莱坞电影
 http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,女神电影
@@ -29,19 +27,7 @@ http://tx.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1 ,卧底警匪
 http://tx.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1.m3u8
-#EXTINF:-1 ,华数电影HD
-http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
-#EXTINF:-1 ,华数动作电影HD
-http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
 #EXTINF:-1 , StarMovies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 ,漫威宇宙
 http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
-#EXTINF:-1 ,峨眉电影HD
-http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
-#EXTINF:-1 ,环球影剧频道
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:-1 , HBO2 720p
-http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:-1 , HBO HD
-http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
